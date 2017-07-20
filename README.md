@@ -1,2 +1,2 @@
-# whatsapp-quick-link
+# Whatsapp-Quick-Link
 For quick link to whatsapp
